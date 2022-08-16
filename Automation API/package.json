@@ -1,0 +1,19 @@
+{
+  "name": "belajar_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "irfan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "supertest": "^6.2.3"
+  }
+}
